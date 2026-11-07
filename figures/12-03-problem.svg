@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="12.3 题图（自绘）" width="262" height="189" viewBox="0 0 262 189">
+  <title>12.3 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <g transform="translate(0 0)">
+      <path d="M 98.00 64.00 L 164.00 64.00 L 164.00 130.00 L 98.00 130.00 Z" stroke="#16232b" stroke-width="1.5" fill="none"/>
+      <line x1="98.00" y1="97.00" x2="72.00" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="164.00" y1="97.00" x2="190.00" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="131.00" y1="64.00" x2="131.00" y2="38.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="131.00" y1="130.00" x2="131.00" y2="156.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="177.00" y1="115.00" x2="177.00" y2="79.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="85.00" y1="79.00" x2="85.00" y2="115.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="113.00" y1="51.00" x2="149.00" y2="51.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="149.00" y1="143.00" x2="113.00" y2="143.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="131.00" y="177.00" text-anchor="middle" fill="#16232b" font-size="13">50，100，40 MPa</text>
+    </g>
+  </g>
+</svg>

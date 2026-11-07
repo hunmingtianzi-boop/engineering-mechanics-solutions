@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3.9 题图（自绘）" width="436" height="215" viewBox="0 0 436 215">
+  <title>3.9 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <path d="M 55.0 50.0 L 346.0 50.0 L 346.0 147.0" stroke="#16232b" stroke-width="2" fill="none"/>
+    <path d="M 152.0 50.0 L 152.0 147.0" stroke="#16232b" stroke-width="2" fill="none"/>
+    <line x1="55.00" y1="50.00" x2="55.00" y2="62.00" stroke="#16232b" stroke-width="1.2"/>
+    <circle cx="55.0" cy="50.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <circle cx="55.0" cy="62.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <line x1="41.00" y1="65.00" x2="69.00" y2="65.00" stroke="#16232b" stroke-width="1"/>
+    <line x1="46.00" y1="65.00" x2="40.00" y2="71.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="52.00" y1="65.00" x2="46.00" y2="71.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="58.00" y1="65.00" x2="52.00" y2="71.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="64.00" y1="65.00" x2="58.00" y2="71.00" stroke="#66747d" stroke-width="0.8"/>
+    <path d="M 143.0 159.0 L 152.0 147.0 L 161.0 159.0" stroke="#16232b" stroke-width="1.2" fill="none"/>
+    <line x1="138.00" y1="159.00" x2="166.00" y2="159.00" stroke="#16232b" stroke-width="1"/>
+    <line x1="143.00" y1="159.00" x2="137.00" y2="165.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="149.00" y1="159.00" x2="143.00" y2="165.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="155.00" y1="159.00" x2="149.00" y2="165.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="161.00" y1="159.00" x2="155.00" y2="165.00" stroke="#66747d" stroke-width="0.8"/>
+    <circle cx="152.0" cy="147.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <circle cx="249.0" cy="50.0" r="3.7" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <line x1="346.00" y1="147.00" x2="359.00" y2="147.00" stroke="#16232b" stroke-width="2.2"/>
+    <circle cx="359.0" cy="147.0" r="3.0" stroke="#16232b" stroke-width="1.35" fill="none"/>
+    <line x1="365.00" y1="127.00" x2="365.00" y2="167.00" stroke="#16232b" stroke-width="1.2"/>
+    <line x1="365.00" y1="129.00" x2="371.00" y2="135.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="365.00" y1="135.00" x2="371.00" y2="141.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="365.00" y1="141.00" x2="371.00" y2="147.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="365.00" y1="147.00" x2="371.00" y2="153.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="365.00" y1="153.00" x2="371.00" y2="159.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="365.00" y1="159.00" x2="371.00" y2="165.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="365.00" y1="165.00" x2="371.00" y2="171.00" stroke="#66747d" stroke-width="0.8"/>
+    <text x="43.00" y="42.00" text-anchor="start" fill="#16232b" font-size="13">D</text>
+    <text x="139.00" y="139.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+    <text x="246.00" y="43.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+    <text x="337.00" y="135.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+    <path d="M 284.0 32.0 A 19 19 0 1 1 310.0 32.0" stroke="#a61b1b" stroke-width="1.7" fill="none" marker-end="url(#redarrow)"/>
+    <text x="297.00" y="17.00" text-anchor="middle" fill="#a61b1b" font-size="12">M</text>
+    <text x="377.00" y="106.00" text-anchor="start" fill="#16232b" font-size="13">l</text>
+    <line x1="55.00" y1="191.00" x2="152.00" y2="191.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="55.00" y1="187.00" x2="55.00" y2="195.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="152.00" y1="187.00" x2="152.00" y2="195.00" stroke="#66747d" stroke-width="1"/>
+    <text x="103.50" y="187.00" text-anchor="middle" fill="#66747d" font-size="12">l</text>
+    <line x1="152.00" y1="191.00" x2="249.00" y2="191.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="152.00" y1="187.00" x2="152.00" y2="195.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="249.00" y1="187.00" x2="249.00" y2="195.00" stroke="#66747d" stroke-width="1"/>
+    <text x="200.50" y="187.00" text-anchor="middle" fill="#66747d" font-size="12">l</text>
+    <line x1="249.00" y1="191.00" x2="346.00" y2="191.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="249.00" y1="187.00" x2="249.00" y2="195.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="346.00" y1="187.00" x2="346.00" y2="195.00" stroke="#66747d" stroke-width="1"/>
+    <text x="297.50" y="187.00" text-anchor="middle" fill="#66747d" font-size="12">l</text>
+  </g>
+</svg>

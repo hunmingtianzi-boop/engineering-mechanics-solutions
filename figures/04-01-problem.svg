@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="4.1 题图（自绘）" width="330" height="276" viewBox="0 0 330 276">
+  <title>4.1 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <line x1="124.00" y1="231.00" x2="174.00" y2="231.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="231.00" x2="124.00" y2="191.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="174.00" y1="231.00" x2="174.00" y2="191.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="191.00" x2="174.00" y2="191.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="231.00" x2="174.00" y2="191.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="191.00" x2="124.00" y2="151.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="174.00" y1="191.00" x2="174.00" y2="151.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="151.00" x2="174.00" y2="151.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="191.00" x2="174.00" y2="151.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="151.00" x2="124.00" y2="111.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="174.00" y1="151.00" x2="174.00" y2="111.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="111.00" x2="174.00" y2="111.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="151.00" x2="174.00" y2="111.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="111.00" x2="124.00" y2="71.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="174.00" y1="111.00" x2="174.00" y2="71.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="71.00" x2="174.00" y2="71.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="111.00" x2="174.00" y2="71.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="71.00" x2="124.00" y2="31.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="174.00" y1="71.00" x2="174.00" y2="31.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="31.00" x2="174.00" y2="31.00" stroke="#16232b" stroke-width="1.8"/>
+    <line x1="124.00" y1="71.00" x2="174.00" y2="31.00" stroke="#16232b" stroke-width="1.8"/>
+    <circle cx="124" cy="231" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="128.00" y="225.00" text-anchor="start" fill="#16232b" font-size="12">A</text>
+    <circle cx="174" cy="231" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="178.00" y="225.00" text-anchor="start" fill="#16232b" font-size="12">B</text>
+    <circle cx="124" cy="191" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="128.00" y="185.00" text-anchor="start" fill="#16232b" font-size="12">C</text>
+    <circle cx="174" cy="191" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="178.00" y="185.00" text-anchor="start" fill="#16232b" font-size="12">D</text>
+    <circle cx="124" cy="151" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="128.00" y="145.00" text-anchor="start" fill="#16232b" font-size="12">E</text>
+    <circle cx="174" cy="151" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="178.00" y="145.00" text-anchor="start" fill="#16232b" font-size="12">F</text>
+    <circle cx="124" cy="111" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="128.00" y="105.00" text-anchor="start" fill="#16232b" font-size="12">G</text>
+    <circle cx="174" cy="111" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="178.00" y="105.00" text-anchor="start" fill="#16232b" font-size="12">H</text>
+    <circle cx="124" cy="71" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="128.00" y="65.00" text-anchor="start" fill="#16232b" font-size="12">I</text>
+    <circle cx="174" cy="71" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="178.00" y="65.00" text-anchor="start" fill="#16232b" font-size="12">J</text>
+    <circle cx="124" cy="31" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="128.00" y="25.00" text-anchor="start" fill="#16232b" font-size="12">K</text>
+    <circle cx="174" cy="31" r="2.5" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="178.00" y="25.00" text-anchor="start" fill="#16232b" font-size="12">L</text>
+    <path d="M 115.0 243.0 L 124.0 231.0 L 133.0 243.0" stroke="#16232b" stroke-width="1.2" fill="none"/>
+    <line x1="110.00" y1="243.00" x2="138.00" y2="243.00" stroke="#16232b" stroke-width="1"/>
+    <line x1="115.00" y1="243.00" x2="109.00" y2="249.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="121.00" y1="243.00" x2="115.00" y2="249.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="127.00" y1="243.00" x2="121.00" y2="249.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="133.00" y1="243.00" x2="127.00" y2="249.00" stroke="#66747d" stroke-width="0.8"/>
+    <circle cx="124.0" cy="231.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <line x1="174.00" y1="231.00" x2="174.00" y2="243.00" stroke="#16232b" stroke-width="1.2"/>
+    <circle cx="174.0" cy="231.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <circle cx="174.0" cy="243.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <line x1="160.00" y1="246.00" x2="188.00" y2="246.00" stroke="#16232b" stroke-width="1"/>
+    <line x1="165.00" y1="246.00" x2="159.00" y2="252.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="171.00" y1="246.00" x2="165.00" y2="252.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="177.00" y1="246.00" x2="171.00" y2="252.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="183.00" y1="246.00" x2="177.00" y2="252.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="174.00" y1="31.00" x2="239.00" y2="31.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <text x="179.00" y="26.00" text-anchor="start" fill="#a61b1b" font-size="12">F</text>
+    <text x="83.00" y="135.00" text-anchor="start" fill="#16232b" font-size="13">1</text>
+    <line x1="97.00" y1="132.00" x2="124.00" y2="132.00" stroke="#16232b" stroke-width="2.2"/>
+    <text x="139.00" y="131.00" text-anchor="start" fill="#16232b" font-size="13">2</text>
+    <text x="184.00" y="136.00" text-anchor="start" fill="#16232b" font-size="13">3</text>
+    <text x="23.00" y="211.00" text-anchor="start" fill="#16232b" font-size="13">每节高 l</text>
+    <line x1="124.00" y1="267.00" x2="174.00" y2="267.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="124.00" y1="263.00" x2="124.00" y2="271.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="174.00" y1="263.00" x2="174.00" y2="271.00" stroke="#66747d" stroke-width="1"/>
+    <text x="149.00" y="263.00" text-anchor="middle" fill="#66747d" font-size="12">l</text>
+  </g>
+</svg>

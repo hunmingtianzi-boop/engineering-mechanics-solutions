@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="9.3 题图（自绘）" width="327" height="219" viewBox="0 0 327 219">
+  <title>9.3 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <path d="M 62.0 158.0 L 153.0 158.0 L 153.0 23.0 L 175.0 23.0 L 175.0 158.0 L 264.0 158.0 L 264.0 192.0 L 62.0 192.0 L 62.0 158.0" stroke="#16232b" stroke-width="2" fill="none"/>
+    <line x1="50.00" y1="138.00" x2="281.00" y2="138.00" stroke="#66747d" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="280.00" y="142.00" text-anchor="start" fill="#16232b" font-size="13">z</text>
+    <text x="157.00" y="134.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+    <text x="182.00" y="49.00" text-anchor="start" fill="#16232b" font-size="13">40 mm</text>
+    <text x="271.00" y="108.00" text-anchor="start" fill="#16232b" font-size="13">500 mm</text>
+    <text x="271.00" y="179.00" text-anchor="start" fill="#16232b" font-size="13">80 mm</text>
+    <line x1="62.00" y1="208.00" x2="264.00" y2="208.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="62.00" y1="204.00" x2="62.00" y2="212.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="264.00" y1="204.00" x2="264.00" y2="212.00" stroke="#66747d" stroke-width="1"/>
+    <text x="163.00" y="204.00" text-anchor="middle" fill="#66747d" font-size="12">b</text>
+  </g>
+</svg>

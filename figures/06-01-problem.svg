@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="6.1 题图（自绘）" width="690" height="260" viewBox="0 0 690 260">
+  <title>6.1 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <g transform="translate(0 0)">
+      <text x="12.00" y="19.00" text-anchor="start" fill="#16232b" font-size="13">(a)</text>
+      <path d="M 68.0 59.0 L 268.0 59.0 L 268.0 85.0 L 68.0 85.0 L 68.0 59.0" stroke="#16232b" stroke-width="1.5" fill="none"/>
+      <line x1="168.00" y1="59.00" x2="168.00" y2="85.00" stroke="#16232b" stroke-width="2.2"/>
+      <text x="64.00" y="106.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <text x="165.00" y="106.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <text x="265.00" y="106.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <line x1="68.00" y1="72.00" x2="21.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="168.00" y1="72.00" x2="219.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="319.00" y1="72.00" x2="268.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="42.00" y="58.00" text-anchor="start" fill="#16232b" font-size="13">F</text>
+      <text x="182.00" y="59.00" text-anchor="start" fill="#16232b" font-size="13">3F</text>
+      <text x="291.00" y="59.00" text-anchor="start" fill="#16232b" font-size="13">2F</text>
+    </g>
+    <g transform="translate(345 0)">
+      <text x="12.00" y="19.00" text-anchor="start" fill="#16232b" font-size="13">(b)</text>
+      <path d="M 66.0 59.0 L 266.0 59.0 L 266.0 85.0 L 66.0 85.0 L 66.0 59.0" stroke="#16232b" stroke-width="1.5" fill="none"/>
+      <line x1="66.00" y1="52.00" x2="66.00" y2="92.00" stroke="#16232b" stroke-width="1.2"/>
+      <line x1="66.00" y1="54.00" x2="60.00" y2="60.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="66.00" y1="60.00" x2="60.00" y2="66.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="66.00" y1="66.00" x2="60.00" y2="72.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="66.00" y1="72.00" x2="60.00" y2="78.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="66.00" y1="78.00" x2="60.00" y2="84.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="66.00" y1="84.00" x2="60.00" y2="90.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="66.00" y1="90.00" x2="60.00" y2="96.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="166.00" y1="59.00" x2="166.00" y2="85.00" stroke="#16232b" stroke-width="2.2"/>
+      <text x="64.00" y="107.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <text x="163.00" y="107.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <text x="263.00" y="107.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <line x1="166.00" y1="72.00" x2="215.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="320.00" y1="72.00" x2="267.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="175.00" y="58.00" text-anchor="start" fill="#16232b" font-size="13">4F</text>
+      <text x="282.00" y="58.00" text-anchor="start" fill="#16232b" font-size="13">3F</text>
+    </g>
+    <g transform="translate(0 130)">
+      <text x="12.00" y="19.00" text-anchor="start" fill="#16232b" font-size="13">(c)</text>
+      <path d="M 62.0 53.0 L 165.0 53.0 L 165.0 62.0 L 264.0 62.0 L 264.0 82.0 L 165.0 82.0 L 165.0 91.0 L 62.0 91.0 L 62.0 53.0" stroke="#16232b" stroke-width="2" fill="none"/>
+      <line x1="62.00" y1="52.00" x2="62.00" y2="92.00" stroke="#16232b" stroke-width="1.2"/>
+      <line x1="62.00" y1="54.00" x2="56.00" y2="60.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="62.00" y1="60.00" x2="56.00" y2="66.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="62.00" y1="66.00" x2="56.00" y2="72.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="62.00" y1="72.00" x2="56.00" y2="78.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="62.00" y1="78.00" x2="56.00" y2="84.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="62.00" y1="84.00" x2="56.00" y2="90.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="62.00" y1="90.00" x2="56.00" y2="96.00" stroke="#66747d" stroke-width="0.8"/>
+      <text x="61.00" y="109.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <text x="163.00" y="109.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <text x="263.00" y="109.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <line x1="165.00" y1="72.00" x2="117.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="264.00" y1="72.00" x2="316.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="99.00" y="61.00" text-anchor="start" fill="#16232b" font-size="13">50 kN</text>
+      <text x="276.00" y="64.00" text-anchor="start" fill="#16232b" font-size="13">30 kN</text>
+    </g>
+    <g transform="translate(345 130)">
+      <text x="12.00" y="19.00" text-anchor="start" fill="#16232b" font-size="13">(d)</text>
+      <path d="M 53.0 60.0 L 122.0 60.0 L 122.0 53.0 L 197.0 53.0 L 197.0 62.0 L 267.0 62.0 L 267.0 82.0 L 197.0 82.0 L 197.0 91.0 L 122.0 91.0 L 122.0 85.0 L 53.0 85.0 L 53.0 60.0" stroke="#16232b" stroke-width="2" fill="none"/>
+      <line x1="53.00" y1="52.00" x2="53.00" y2="92.00" stroke="#16232b" stroke-width="1.2"/>
+      <line x1="53.00" y1="54.00" x2="47.00" y2="60.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="53.00" y1="60.00" x2="47.00" y2="66.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="53.00" y1="66.00" x2="47.00" y2="72.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="53.00" y1="72.00" x2="47.00" y2="78.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="53.00" y1="78.00" x2="47.00" y2="84.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="53.00" y1="84.00" x2="47.00" y2="90.00" stroke="#66747d" stroke-width="0.8"/>
+      <line x1="53.00" y1="90.00" x2="47.00" y2="96.00" stroke="#66747d" stroke-width="0.8"/>
+      <text x="49.00" y="110.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <text x="119.00" y="110.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <text x="194.00" y="110.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <text x="264.00" y="110.00" text-anchor="start" fill="#16232b" font-size="13">D</text>
+      <line x1="80.00" y1="72.00" x2="122.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="240.00" y1="72.00" x2="198.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="267.00" y1="72.00" x2="320.00" y2="72.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="68.00" y="56.00" text-anchor="start" fill="#16232b" font-size="13">30 kN</text>
+      <text x="209.00" y="56.00" text-anchor="start" fill="#16232b" font-size="13">20 kN</text>
+      <text x="271.00" y="61.00" text-anchor="start" fill="#16232b" font-size="13">10 kN</text>
+    </g>
+  </g>
+</svg>

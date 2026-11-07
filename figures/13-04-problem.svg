@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="13.4 题图（自绘）" width="401" height="213" viewBox="0 0 401 213">
+  <title>13.4 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <path d="M 63.0 48.0 L 301.0 48.0 L 301.0 96.0 L 63.0 96.0 L 63.0 48.0" stroke="#16232b" stroke-width="1.5" fill="none"/>
+    <circle cx="63.0" cy="72.0" r="24.0" stroke="#16232b" stroke-width="1.35" fill="none"/>
+    <circle cx="301.0" cy="72.0" r="24.0" stroke="#16232b" stroke-width="1.35" fill="none"/>
+    <line x1="32.00" y1="72.00" x2="345.00" y2="72.00" stroke="#66747d" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="346.00" y="76.00" text-anchor="start" fill="#16232b" font-size="13">x</text>
+    <text x="191.00" y="68.00" text-anchor="start" fill="#16232b" font-size="13">h</text>
+    <text x="81.00" y="35.00" text-anchor="start" fill="#16232b" font-size="13">xy 平面，两端铰接</text>
+    <path d="M 63.0 157.0 L 301.0 157.0 L 301.0 179.0 L 63.0 179.0 L 63.0 157.0" stroke="#16232b" stroke-width="1.5" fill="none"/>
+    <path d="M 48.0 147.0 L 80.0 147.0 L 80.0 189.0 L 48.0 189.0 L 48.0 147.0" stroke="#16232b" stroke-width="1.5" fill="none"/>
+    <path d="M 284.0 147.0 L 316.0 147.0 L 316.0 189.0 L 284.0 189.0 L 284.0 147.0" stroke="#16232b" stroke-width="1.5" fill="none"/>
+    <line x1="32.00" y1="168.00" x2="345.00" y2="168.00" stroke="#66747d" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="346.00" y="172.00" text-anchor="start" fill="#16232b" font-size="13">x</text>
+    <text x="189.00" y="154.00" text-anchor="start" fill="#16232b" font-size="13">b</text>
+    <text x="79.00" y="137.00" text-anchor="start" fill="#16232b" font-size="13">xz 平面，长度系数 0.5</text>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3.13 题图（自绘）" width="450" height="207" viewBox="0 0 450 207">
+  <title>3.13 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <path d="M 52.0 128.0 L 224.0 70.0 L 396.0 128.0 L 52.0 128.0" stroke="#16232b" stroke-width="2" fill="none"/>
+    <path d="M 43.0 140.0 L 52.0 128.0 L 61.0 140.0" stroke="#16232b" stroke-width="1.2" fill="none"/>
+    <line x1="38.00" y1="140.00" x2="66.00" y2="140.00" stroke="#16232b" stroke-width="1"/>
+    <line x1="43.00" y1="140.00" x2="37.00" y2="146.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="49.00" y1="140.00" x2="43.00" y2="146.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="55.00" y1="140.00" x2="49.00" y2="146.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="61.00" y1="140.00" x2="55.00" y2="146.00" stroke="#66747d" stroke-width="0.8"/>
+    <circle cx="52.0" cy="128.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <line x1="396.00" y1="128.00" x2="396.00" y2="140.00" stroke="#16232b" stroke-width="1.2"/>
+    <circle cx="396.0" cy="128.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <circle cx="396.0" cy="140.0" r="2.8" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <line x1="382.00" y1="143.00" x2="410.00" y2="143.00" stroke="#16232b" stroke-width="1"/>
+    <line x1="387.00" y1="143.00" x2="381.00" y2="149.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="393.00" y1="143.00" x2="387.00" y2="149.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="399.00" y1="143.00" x2="393.00" y2="149.00" stroke="#66747d" stroke-width="0.8"/>
+    <line x1="405.00" y1="143.00" x2="399.00" y2="149.00" stroke="#66747d" stroke-width="0.8"/>
+    <circle cx="224.0" cy="70.0" r="2.4" stroke="#16232b" stroke-width="1.35" fill="white"/>
+    <text x="229.00" y="65.00" text-anchor="start" fill="#16232b" font-size="12">C</text>
+    <text x="45.00" y="157.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+    <text x="395.00" y="157.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+    <line x1="52.00" y1="24.00" x2="396.00" y2="24.00" stroke="#a61b1b" stroke-width="1.15"/>
+    <line x1="52.00" y1="24.00" x2="52.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="73.50" y1="24.00" x2="73.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="95.00" y1="24.00" x2="95.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="116.50" y1="24.00" x2="116.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="138.00" y1="24.00" x2="138.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="159.50" y1="24.00" x2="159.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="181.00" y1="24.00" x2="181.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="202.50" y1="24.00" x2="202.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="224.00" y1="24.00" x2="224.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="245.50" y1="24.00" x2="245.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="267.00" y1="24.00" x2="267.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="288.50" y1="24.00" x2="288.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="310.00" y1="24.00" x2="310.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="331.50" y1="24.00" x2="331.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="353.00" y1="24.00" x2="353.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="374.50" y1="24.00" x2="374.50" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="396.00" y1="24.00" x2="396.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <text x="224.00" y="18.00" text-anchor="middle" fill="#a61b1b" font-size="12">q</text>
+    <text x="247.00" y="103.00" text-anchor="start" fill="#16232b" font-size="13">高 l/6</text>
+    <line x1="52.00" y1="188.00" x2="224.00" y2="188.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="52.00" y1="184.00" x2="52.00" y2="192.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="224.00" y1="184.00" x2="224.00" y2="192.00" stroke="#66747d" stroke-width="1"/>
+    <text x="138.00" y="184.00" text-anchor="middle" fill="#66747d" font-size="12">l/2</text>
+    <line x1="224.00" y1="188.00" x2="396.00" y2="188.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="224.00" y1="184.00" x2="224.00" y2="192.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="396.00" y1="184.00" x2="396.00" y2="192.00" stroke="#66747d" stroke-width="1"/>
+    <text x="310.00" y="184.00" text-anchor="middle" fill="#66747d" font-size="12">l/2</text>
+  </g>
+</svg>

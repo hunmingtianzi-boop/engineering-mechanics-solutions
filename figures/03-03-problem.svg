@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3.3 题图（自绘）" width="330" height="274" viewBox="0 0 330 274">
+  <title>3.3 题图（自绘）</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <path d="M 60.0 30.0 L 60.0 228.0 L 276.0 228.0 L 276.0 30.0" stroke="#16232b" stroke-width="2" fill="none"/>
+    <line x1="60.00" y1="25.00" x2="276.00" y2="25.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="60.00" y1="21.00" x2="60.00" y2="29.00" stroke="#66747d" stroke-width="1"/>
+    <line x1="276.00" y1="21.00" x2="276.00" y2="29.00" stroke="#66747d" stroke-width="1"/>
+    <text x="168.00" y="21.00" text-anchor="middle" fill="#66747d" font-size="12">72 cm</text>
+    <circle cx="120.0" cy="96.0" r="60.0" stroke="#16232b" stroke-width="1.35" fill="none"/>
+    <circle cx="216.0" cy="168.0" r="60.0" stroke="#16232b" stroke-width="1.35" fill="none"/>
+    <text x="107.00" y="92.00" text-anchor="start" fill="#16232b" font-size="13">O₁</text>
+    <text x="219.00" y="163.00" text-anchor="start" fill="#16232b" font-size="13">O₂</text>
+    <text x="43.00" y="96.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+    <text x="281.00" y="171.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+    <text x="213.00" y="247.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+    <text x="171.00" y="121.00" text-anchor="start" fill="#16232b" font-size="13">D</text>
+    <line x1="120.00" y1="96.00" x2="120.00" y2="146.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="216.00" y1="168.00" x2="216.00" y2="216.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <text x="126.00" y="133.00" text-anchor="start" fill="#16232b" font-size="13">G</text>
+    <text x="222.00" y="201.00" text-anchor="start" fill="#16232b" font-size="13">G</text>
+    <line x1="120.00" y1="96.00" x2="216.00" y2="168.00" stroke="#66747d" stroke-width="1" stroke-dasharray="4 4"/>
+  </g>
+</svg>
