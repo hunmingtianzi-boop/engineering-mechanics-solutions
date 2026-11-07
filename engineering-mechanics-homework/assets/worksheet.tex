@@ -1,0 +1,80 @@
+% !TeX program = xelatex
+\documentclass[a4paper,12pt]{article}
+\usepackage[left=18mm,right=18mm,top=25mm,bottom=23mm,
+  headheight=15pt,headsep=12pt,footskip=30pt]{geometry}
+\usepackage{fontspec,xeCJK}
+\usepackage{amsmath,amssymb,graphicx,tikz,fancyhdr}
+\usetikzlibrary{arrows.meta,calc}
+\usepackage[hidelinks]{hyperref}
+% Select installed Chinese TrueType fonts. The following names are for Windows.
+\setCJKmainfont[BoldFont=SimHei]{SimSun}
+\graphicspath{{figures/}}
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\setlength{\jot}{4pt}
+\raggedbottom
+
+\newcommand{\worksheettitle}{工程力学作业}
+\newcommand{\worksheetauthor}{夜霜曦雪}
+\hypersetup{pdftitle={\worksheettitle},pdfauthor={\worksheetauthor}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\worksheettitle}
+\fancyhead[R]{\small\worksheetauthor}
+\fancyfoot[R]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\newsavebox{\problemcontents}
+% Keep each exercise together. Reflow the content if a block exceeds the page.
+\newenvironment{problemblock}
+  {\par\addvspace{8pt}\begin{lrbox}{\problemcontents}\begin{minipage}{\linewidth}
+   \setlength{\parskip}{3pt}}
+  {\par\end{minipage}\end{lrbox}%
+   \ifdim\dimexpr\ht\problemcontents+\dp\problemcontents\relax>\textheight
+     \PackageWarningNoLine{worksheet}{Exercise exceeds page height. Reflow its figures and text}%
+   \fi
+   \noindent\usebox{\problemcontents}\par}
+
+\newcommand{\problem}[4]{%
+  \pdfbookmark[1]{#1 #2}{problem-#1}%
+  \noindent{\fontsize{16pt}{20pt}\selectfont\bfseries #1\quad #2}\par
+  \noindent{\small #3}\par\smallskip
+  \noindent #4\par}
+\newcommand{\solution}{\par\medskip\noindent\textbf{解答}\par\nopagebreak\noindent\ignorespaces}
+\newcommand{\answer}{\par\medskip\noindent\textbf{答案}\enspace\ignorespaces}
+
+\definecolor{annotationred}{HTML}{A61B1B}
+\tikzset{force/.style={-{Latex[length=2.1mm]},semithick},
+  markforce/.style={force,draw=annotationred,line width=.9pt,
+    preaction={draw=white,line width=1.6pt,-}},
+  cutline/.style={draw=annotationred,densely dashed,line width=.75pt,
+    preaction={draw=white,line width=1.35pt}},
+  marklabel/.style={text=annotationred,fill=white,inner sep=1.1pt}}
+% Arguments: image filename, graphicx size options, width in pixels,
+% height in pixels, and TikZ annotations. Pixel y increases downwards.
+\newcommand{\markedimage}[5]{%
+  \begin{tikzpicture}[font=\small,baseline=(scan.south)]
+    \node[anchor=north west,inner sep=0pt,outer sep=0pt] (scan) at (0,0)
+      {\includegraphics[#2]{#1}};
+    \begin{scope}[
+      x={($(scan.north west)!1/#3!(scan.north east)$)},
+      y={($(scan.north west)!1/#4!(scan.south west)$)}]
+      #5
+    \end{scope}
+  \end{tikzpicture}}
+
+\begin{document}
+% Replace this compilation example with the assigned questions and their figures.
+\begin{problemblock}
+\problem{1.1}{轴向平衡}{排版示例}{%
+  \textbf{题意}\enspace 判断直杆的轴向平衡。\par
+  \textbf{已知条件}\enspace 直杆在同一直线上受向右力 \(F\) 和向左力 \(R\)。\par
+  \textbf{求解要求}\enspace 求平衡时 \(R\) 的大小。}
+\solution 取向右为正，列直杆的轴向平衡方程
+\[
+  \sum F_x=F-R=0 .
+\]
+\answer \(R=F\)，方向向左。
+\end{problemblock}
+\end{document}
