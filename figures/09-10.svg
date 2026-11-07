@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="9.10  截面正应力沿高度的分布" width="450" height="228" viewBox="0 0 450 228">
+  <title>9.10  截面正应力沿高度的分布</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="450" height="228" fill="#fff"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="18.00" y="28.00" text-anchor="start" fill="#16232b" font-size="18">9.10  截面正应力沿高度的分布</text>
+    <line x1="95.00" y1="62.00" x2="95.00" y2="185.00" stroke="#16232b" stroke-width="2.3"/>
+    <path d="M 95 62 H 325 L 162 185 H 95 Z" stroke="#a61b1b" stroke-width="1.8" fill="#f6e8e8"/>
+    <line x1="95.00" y1="62.00" x2="325.00" y2="62.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="95.00" y1="93.00" x2="283.92" y2="93.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="95.00" y1="124.00" x2="242.84" y2="124.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="95.00" y1="155.00" x2="201.76" y2="155.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <line x1="95.00" y1="185.00" x2="162.00" y2="185.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+    <text x="334.00" y="66.00" text-anchor="start" fill="#a61b1b" font-size="14">252 MPa</text>
+    <text x="172.00" y="190.00" text-anchor="start" fill="#a61b1b" font-size="14">73.5 MPa</text>
+    <text x="28.00" y="66.00" text-anchor="start" fill="#16232b" font-size="14">上缘</text>
+    <text x="28.00" y="190.00" text-anchor="start" fill="#16232b" font-size="14">下缘</text>
+    <text x="95.00" y="211.00" text-anchor="start" fill="#16232b" font-size="14">全截面受拉</text>
+  </g>
+</svg>

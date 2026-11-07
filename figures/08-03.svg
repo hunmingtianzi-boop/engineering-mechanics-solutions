@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="8.3  由内力图反求的外载" width="700" height="226" viewBox="0 0 700 226">
+  <title>8.3  由内力图反求的外载</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="700" height="226" fill="#fff"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="18.00" y="28.00" text-anchor="start" fill="#16232b" font-size="18">8.3  由内力图反求的外载</text>
+    <g transform="translate(0 42)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(a)</text>
+      <line x1="40.00" y1="97.00" x2="303.00" y2="97.00" stroke="#16232b" stroke-width="3"/>
+      <line x1="83.83" y1="69.00" x2="259.17" y2="69.00" stroke="#a61b1b" stroke-width="1.25"/>
+      <line x1="83.83" y1="69.00" x2="83.83" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="103.31" y1="69.00" x2="103.31" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="122.80" y1="69.00" x2="122.80" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="142.28" y1="69.00" x2="142.28" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="161.76" y1="69.00" x2="161.76" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="181.24" y1="69.00" x2="181.24" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="200.72" y1="69.00" x2="200.72" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="220.20" y1="69.00" x2="220.20" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="239.69" y1="69.00" x2="239.69" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="259.17" y1="69.00" x2="259.17" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="171.50" y="62.00" text-anchor="middle" fill="#a61b1b" font-size="13">q</text>
+      <line x1="40.00" y1="58.00" x2="40.00" y2="96.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="47.00" y="69.00" text-anchor="start" fill="#a61b1b" font-size="14">qa</text>
+      <line x1="83.83" y1="138.00" x2="83.83" y2="99.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="57.83" y="153.00" text-anchor="start" fill="#a61b1b" font-size="14">3qa</text>
+      <line x1="259.17" y1="138.00" x2="259.17" y2="99.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="233.17" y="153.00" text-anchor="start" fill="#a61b1b" font-size="14">2qa</text>
+      <path d="M 292.0 92 A 16 16 0 1 1 317.0 110" stroke="#a61b1b" stroke-width="1.8" fill="none" marker-end="url(#redarrow)"/>
+      <text x="280.00" y="138.00" text-anchor="start" fill="#a61b1b" font-size="12">顺时针 qa²</text>
+      <line x1="15.00" y1="176.00" x2="335.00" y2="176.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(350 42)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(b)</text>
+      <line x1="40.00" y1="97.00" x2="303.00" y2="97.00" stroke="#16232b" stroke-width="3"/>
+      <line x1="105.75" y1="69.00" x2="303.00" y2="69.00" stroke="#a61b1b" stroke-width="1.25"/>
+      <line x1="105.75" y1="69.00" x2="105.75" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="127.67" y1="69.00" x2="127.67" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="149.58" y1="69.00" x2="149.58" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="171.50" y1="69.00" x2="171.50" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="193.42" y1="69.00" x2="193.42" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="215.33" y1="69.00" x2="215.33" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="237.25" y1="69.00" x2="237.25" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="259.17" y1="69.00" x2="259.17" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="281.08" y1="69.00" x2="281.08" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="303.00" y1="69.00" x2="303.00" y2="97.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="204.38" y="62.00" text-anchor="middle" fill="#a61b1b" font-size="13">q</text>
+      <line x1="40.00" y1="138.00" x2="40.00" y2="99.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="14.00" y="153.00" text-anchor="start" fill="#a61b1b" font-size="14">5qa/6</text>
+      <line x1="237.25" y1="138.00" x2="237.25" y2="99.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="211.25" y="153.00" text-anchor="start" fill="#a61b1b" font-size="14">13qa/6</text>
+      <path d="M 94.75 92 A 16 16 0 1 0 119.75 110" stroke="#a61b1b" stroke-width="1.8" fill="none" marker-end="url(#redarrow)"/>
+      <text x="82.75" y="138.00" text-anchor="start" fill="#a61b1b" font-size="12">逆时针 qa²</text>
+      <line x1="15.00" y1="176.00" x2="335.00" y2="176.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="2.1  八种 AB 梁的独立受力图" width="700" height="786" viewBox="0 0 700 786">
+  <title>2.1  八种 AB 梁的独立受力图</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="700" height="786" fill="#fff"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="18.00" y="28.00" text-anchor="start" fill="#16232b" font-size="18">2.1  八种 AB 梁的独立受力图</text>
+    <g transform="translate(0 42)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(a) 铰支座与斜绳</text>
+      <line x1="62.00" y1="100.00" x2="279.00" y2="100.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="62" cy="100" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="58.00" y="119.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="171" cy="100" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="167.00" y="119.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <circle cx="279" cy="100" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="275.00" y="119.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="62.00" y1="100.00" x2="101.00" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="105.00" y="104.00" text-anchor="start" fill="#a61b1b" font-size="14">Aₓ</text>
+      <line x1="62.00" y1="100.00" x2="62.00" y2="61.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="54.00" y="54.00" text-anchor="start" fill="#a61b1b" font-size="14">Aᵧ</text>
+      <line x1="171.00" y1="100.00" x2="171.00" y2="143.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="178.00" y="144.00" text-anchor="start" fill="#a61b1b" font-size="14">W</text>
+      <line x1="279.00" y1="100.00" x2="213.00" y2="70.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="202.00" y="63.00" text-anchor="start" fill="#a61b1b" font-size="14">Tᴮᴰ</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(350 42)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(b) 铰支座、弯杆和悬挂物</text>
+      <line x1="60.00" y1="89.00" x2="275.00" y2="89.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="60" cy="89" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="56.00" y="108.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="177" cy="89" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="173.00" y="108.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <circle cx="275" cy="89" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="271.00" y="108.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="60.00" y1="89.00" x2="99.00" y2="89.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="103.00" y="93.00" text-anchor="start" fill="#a61b1b" font-size="14">Aₓ</text>
+      <line x1="60.00" y1="89.00" x2="60.00" y2="50.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="52.00" y="43.00" text-anchor="start" fill="#a61b1b" font-size="14">Aᵧ</text>
+      <line x1="177.00" y1="89.00" x2="219.00" y2="44.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="219.00" y="37.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᶜᴰ</text>
+      <line x1="275.00" y1="89.00" x2="275.00" y2="132.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="282.00" y="133.00" text-anchor="start" fill="#a61b1b" font-size="14">W</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(0 227)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(c) 三根连杆</text>
+      <line x1="58.00" y1="88.00" x2="290.00" y2="88.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="91" cy="88" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="87.00" y="107.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="155" cy="88" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="151.00" y="107.00" text-anchor="start" fill="#16232b" font-size="13">D</text>
+      <circle cx="185" cy="88" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="181.00" y="107.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <circle cx="266" cy="88" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="262.00" y="107.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="22.00" y1="88.00" x2="55.00" y2="88.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="35.00" y="81.00" text-anchor="start" fill="#a61b1b" font-size="14">F</text>
+      <line x1="91.00" y1="88.00" x2="91.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="77.00" y="42.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴬ</text>
+      <line x1="266.00" y1="88.00" x2="266.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="254.00" y="42.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴮ</text>
+      <line x1="155.00" y1="88.00" x2="138.00" y2="133.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="122.00" y="149.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴰ</text>
+      <line x1="185.00" y1="88.00" x2="185.00" y2="132.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="192.00" y="136.00" text-anchor="start" fill="#a61b1b" font-size="14">W</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(350 227)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(d) 竖梁与弯杆</text>
+      <line x1="162.00" y1="50.00" x2="162.00" y2="137.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="162" cy="50" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="158.00" y="69.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="162" cy="91" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="158.00" y="110.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <circle cx="162" cy="137" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="158.00" y="156.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="162.00" y1="50.00" x2="223.00" y2="50.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="228.00" y="54.00" text-anchor="start" fill="#a61b1b" font-size="14">F</text>
+      <line x1="162.00" y1="91.00" x2="109.00" y2="133.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="71.00" y="141.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᶜᴰ</text>
+      <line x1="162.00" y1="137.00" x2="201.00" y2="137.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="205.00" y="141.00" text-anchor="start" fill="#a61b1b" font-size="14">Bₓ</text>
+      <line x1="162.00" y1="137.00" x2="162.00" y2="111.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="170.00" y="112.00" text-anchor="start" fill="#a61b1b" font-size="14">Bᵧ</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(0 412)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(e) 棱角、水平绳、地面</text>
+      <line x1="70.00" y1="50.00" x2="258.00" y2="145.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="70" cy="50" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="66.00" y="69.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="118" cy="74" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="114.00" y="93.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <circle cx="170" cy="101" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="166.00" y="120.00" text-anchor="start" fill="#16232b" font-size="13">D</text>
+      <circle cx="215" cy="123" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="211.00" y="142.00" text-anchor="start" fill="#16232b" font-size="13">E</text>
+      <circle cx="258" cy="145" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="254.00" y="164.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="118.00" y1="74.00" x2="139.00" y2="34.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="146.00" y="38.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᶜ</text>
+      <line x1="170.00" y1="101.00" x2="170.00" y2="144.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="177.00" y="148.00" text-anchor="start" fill="#a61b1b" font-size="14">W</text>
+      <line x1="215.00" y1="123.00" x2="176.00" y2="123.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="191.00" y="141.00" text-anchor="start" fill="#a61b1b" font-size="14">Tᴱᶠ</text>
+      <line x1="258.00" y1="145.00" x2="258.00" y2="107.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="265.00" y="107.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴮ</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(350 412)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(f) 墙、地面与上方棱角</text>
+      <line x1="107.00" y1="48.00" x2="197.00" y2="145.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="107" cy="48" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="103.00" y="67.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="145" cy="89" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="141.00" y="108.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <circle cx="167" cy="113" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="163.00" y="132.00" text-anchor="start" fill="#16232b" font-size="13">D</text>
+      <circle cx="197" cy="145" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="193.00" y="164.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="107.00" y1="48.00" x2="153.00" y2="48.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="159.00" y="52.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴬ</text>
+      <line x1="145.00" y1="89.00" x2="145.00" y2="123.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="124.00" y="127.00" text-anchor="start" fill="#a61b1b" font-size="14">W</text>
+      <line x1="167.00" y1="113.00" x2="120.00" y2="150.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="95.00" y="162.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴰ</text>
+      <line x1="197.00" y1="145.00" x2="197.00" y2="102.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="204.00" y="106.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴮ</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(0 597)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(g) 局部均布力与竖短杆</text>
+      <line x1="50.00" y1="101.00" x2="284.00" y2="101.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="50" cy="101" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="46.00" y="120.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="109" cy="101" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="105.00" y="120.00" text-anchor="start" fill="#16232b" font-size="13">C</text>
+      <circle cx="215" cy="101" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="211.00" y="120.00" text-anchor="start" fill="#16232b" font-size="13">D</text>
+      <circle cx="284" cy="101" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="280.00" y="120.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="50.00" y1="72.00" x2="107.00" y2="72.00" stroke="#a61b1b" stroke-width="1.25"/>
+      <line x1="50.00" y1="72.00" x2="50.00" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="64.25" y1="72.00" x2="64.25" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="78.50" y1="72.00" x2="78.50" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="92.75" y1="72.00" x2="92.75" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="107.00" y1="72.00" x2="107.00" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="78.50" y="65.00" text-anchor="middle" fill="#a61b1b" font-size="13">q</text>
+      <line x1="109.00" y1="101.00" x2="144.00" y2="101.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="148.00" y="105.00" text-anchor="start" fill="#a61b1b" font-size="14">Cₓ</text>
+      <line x1="109.00" y1="101.00" x2="109.00" y2="57.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="113.00" y="59.00" text-anchor="start" fill="#a61b1b" font-size="14">Cᵧ</text>
+      <line x1="215.00" y1="101.00" x2="215.00" y2="61.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="221.00" y="59.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴰ</text>
+      <line x1="284.00" y1="54.00" x2="284.00" y2="98.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="292.00" y="59.00" text-anchor="start" fill="#a61b1b" font-size="14">F</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(350 597)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(h) 斜面滚动与铰支座</text>
+      <line x1="53.00" y1="101.00" x2="275.00" y2="101.00" stroke="#16232b" stroke-width="3"/>
+      <circle cx="53" cy="101" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="49.00" y="120.00" text-anchor="start" fill="#16232b" font-size="13">A</text>
+      <circle cx="275" cy="101" r="3.2" stroke="#16232b" stroke-width="1.35" fill="white"/>
+      <text x="271.00" y="120.00" text-anchor="start" fill="#16232b" font-size="13">B</text>
+      <line x1="68.00" y1="72.00" x2="258.00" y2="72.00" stroke="#a61b1b" stroke-width="1.25"/>
+      <line x1="68.00" y1="72.00" x2="68.00" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="91.75" y1="72.00" x2="91.75" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="115.50" y1="72.00" x2="115.50" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="139.25" y1="72.00" x2="139.25" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="163.00" y1="72.00" x2="163.00" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="186.75" y1="72.00" x2="186.75" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="210.50" y1="72.00" x2="210.50" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="234.25" y1="72.00" x2="234.25" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <line x1="258.00" y1="72.00" x2="258.00" y2="100.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="163.00" y="65.00" text-anchor="middle" fill="#a61b1b" font-size="13">q</text>
+      <line x1="53.00" y1="101.00" x2="75.00" y2="58.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="34.00" y="54.00" text-anchor="start" fill="#a61b1b" font-size="14">Nᴬ</text>
+      <line x1="275.00" y1="101.00" x2="314.00" y2="101.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="318.00" y="105.00" text-anchor="start" fill="#a61b1b" font-size="14">Bₓ</text>
+      <line x1="275.00" y1="101.00" x2="275.00" y2="62.00" stroke="#a61b1b" stroke-width="1.9" marker-end="url(#redarrow)"/>
+      <text x="267.00" y="55.00" text-anchor="start" fill="#a61b1b" font-size="14">Bᵧ</text>
+      <line x1="15.00" y1="181.00" x2="335.00" y2="181.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="11.2  平面应力圆" width="1050" height="211" viewBox="0 0 1050 211">
+  <title>11.2  平面应力圆</title>
+  <defs>
+    <marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#a61b1b"/>
+    </marker>
+    <marker id="axisarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#66747d"/>
+    </marker>
+  </defs>
+  <rect width="1050" height="211" fill="#fff"/>
+  <g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="18.00" y="28.00" text-anchor="start" fill="#16232b" font-size="18">11.2  平面应力圆</text>
+    <g transform="translate(0 42)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(a)</text>
+      <line x1="30.00" y1="92.00" x2="317.00" y2="92.00" stroke="#66747d" stroke-width="1.25" marker-end="url(#axisarrow)"/>
+      <text x="309.00" y="111.00" text-anchor="start" fill="#66747d" font-size="14">σ</text>
+      <line x1="112.00" y1="145.00" x2="112.00" y2="44.00" stroke="#66747d" stroke-width="1.25" marker-end="url(#axisarrow)"/>
+      <text x="119.00" y="46.00" text-anchor="start" fill="#66747d" font-size="14">τ</text>
+      <circle cx="189.0" cy="92" r="49.0" stroke="#a61b1b" stroke-width="1.35" fill="none"/>
+      <circle cx="140.0" cy="92" r="2" stroke="#a61b1b" stroke-width="1.35" fill="#a61b1b"/>
+      <text x="140.00" y="111.00" text-anchor="middle" fill="#a61b1b" font-size="12">20</text>
+      <circle cx="238.0" cy="92" r="2" stroke="#a61b1b" stroke-width="1.35" fill="#a61b1b"/>
+      <text x="238.00" y="111.00" text-anchor="middle" fill="#a61b1b" font-size="12">90</text>
+      <text x="20.00" y="153.00" text-anchor="start" fill="#66747d" font-size="12">MPa</text>
+      <line x1="15.00" y1="161.00" x2="335.00" y2="161.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(350 42)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(b)</text>
+      <line x1="30.00" y1="92.00" x2="317.00" y2="92.00" stroke="#66747d" stroke-width="1.25" marker-end="url(#axisarrow)"/>
+      <text x="309.00" y="111.00" text-anchor="start" fill="#66747d" font-size="14">σ</text>
+      <line x1="181.08" y1="145.00" x2="181.08" y2="44.00" stroke="#66747d" stroke-width="1.25" marker-end="url(#axisarrow)"/>
+      <text x="188.08" y="46.00" text-anchor="start" fill="#66747d" font-size="14">τ</text>
+      <circle cx="175.0" cy="92" r="49.00000000000001" stroke="#a61b1b" stroke-width="1.35" fill="none"/>
+      <circle cx="126.0" cy="92" r="2" stroke="#a61b1b" stroke-width="1.35" fill="#a61b1b"/>
+      <text x="126.00" y="111.00" text-anchor="middle" fill="#a61b1b" font-size="12">−45.3</text>
+      <circle cx="224.0" cy="92" r="2" stroke="#a61b1b" stroke-width="1.35" fill="#a61b1b"/>
+      <text x="224.00" y="111.00" text-anchor="middle" fill="#a61b1b" font-size="12">35.3</text>
+      <text x="20.00" y="153.00" text-anchor="start" fill="#66747d" font-size="12">MPa</text>
+      <line x1="15.00" y1="161.00" x2="335.00" y2="161.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+    <g transform="translate(700 42)">
+      <text x="16.00" y="22.00" text-anchor="start" fill="#16232b" font-size="15">(c)</text>
+      <line x1="30.00" y1="92.00" x2="317.00" y2="92.00" stroke="#66747d" stroke-width="1.25" marker-end="url(#axisarrow)"/>
+      <text x="309.00" y="111.00" text-anchor="start" fill="#66747d" font-size="14">σ</text>
+      <line x1="300.00" y1="145.00" x2="300.00" y2="44.00" stroke="#66747d" stroke-width="1.25" marker-end="url(#axisarrow)"/>
+      <text x="307.00" y="46.00" text-anchor="start" fill="#66747d" font-size="14">τ</text>
+      <circle cx="96.53436991606537" cy="92" r="46.534369916065366" stroke="#a61b1b" stroke-width="1.35" fill="none"/>
+      <circle cx="50.0" cy="92" r="2" stroke="#a61b1b" stroke-width="1.35" fill="#a61b1b"/>
+      <text x="50.00" y="111.00" text-anchor="middle" fill="#a61b1b" font-size="12">−79.9</text>
+      <circle cx="143.06873983213075" cy="92" r="2" stroke="#a61b1b" stroke-width="1.35" fill="#a61b1b"/>
+      <text x="143.07" y="111.00" text-anchor="middle" fill="#a61b1b" font-size="12">−50.1</text>
+      <text x="20.00" y="153.00" text-anchor="start" fill="#66747d" font-size="12">MPa</text>
+      <line x1="15.00" y1="161.00" x2="335.00" y2="161.00" stroke="#e3e9ed" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
